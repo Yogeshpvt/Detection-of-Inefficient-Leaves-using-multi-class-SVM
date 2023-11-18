@@ -1,4 +1,4 @@
-# Plant Leaf Disease Detection using Feature Extraction and Multiclass-SVM 
+# Dataset Preprocessing, Feature Extraction, and Multiclass-SVM 
 
 ![image](https://github.com/Yogeshpvt/Plant-Leaf-Disease-Detection-using-ML/assets/87895840/e7838874-8ebe-44ad-98e9-e72536c14848)
 
